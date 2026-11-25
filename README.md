@@ -2,6 +2,8 @@
 
 Proposta de layout (pitch) da Concept Agência para a unidade **Fast Spa Asa Sul** (franquia da rede Fast Spa, Brasília/DF).
 
+**Publicado:** https://guleite.github.io/fast-spa-asa-sul/ (GitHub Pages, repositório [guleite/fast-spa-asa-sul](https://github.com/guleite/fast-spa-asa-sul), branch `main`; cada push na `main` atualiza o site).
+
 Site estático: HTML/CSS/JS + GSAP, ScrollTrigger e Lenis via CDN. Página com `noindex` e `robots.txt` bloqueando buscadores.
 
 Rodar local: `npx http-server fast-spa-asa-sul -p 5194 -c-1` (entrada "fast-spa-asa-sul" no `.claude/launch.json`). Depois de editar CSS/JS, subir o `?v=N` no `index.html`.
